@@ -1,0 +1,4 @@
+p022_names.txt
+.vscode/
+/target
+**/*.rs.bk
